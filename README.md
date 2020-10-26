@@ -25,11 +25,11 @@ https://www.ics.uci.edu/~jmoorkan/vhdlref/conc_s_a.html
 Concurrent Statement	----used in ---->	Architecture  
 Phép gán xẩy ra bất cứ khi nào giá trị của biểu thức bên phải thay đổi  
 
-'architecture CONC of HA is  
+architecture CONC of HA is  
 begin  
 	SUM   <= A xor B;  
 	CARRY <= A and B;  
-end CONC;'  
+end CONC;  
 
 ### Conditional Signal Assignment(Phép gán tín hiệu có điều kiện)
 https://www.ics.uci.edu/~jmoorkan/vhdlref/cond_s_a.html  
