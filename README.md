@@ -7,7 +7,7 @@ https://www.fpga4student.com/p/vhdl-project.html
 https://vi.wikipedia.org/wiki/JPEG  
 https://vi.wikipedia.org/wiki/YUV  
 
-### jpeg decoder
+### Jpeg decoder
 http://www.svcl.ucsd.edu/courses/ece161c/handouts/DCT.pdf  
 
 ### Jpeg(VNese)
