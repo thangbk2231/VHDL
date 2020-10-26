@@ -21,13 +21,14 @@ https://www.ics.uci.edu/~jmoorkan/vhdlref/
 https://www.ics.uci.edu/~jmoorkan/vhdlref/process.html  
 
 ### Concurrent Signal Assignment(Phép gán tín hiệu đồng thời)
-Concurrent Statement	----used in ---->	Architecture  
 https://www.ics.uci.edu/~jmoorkan/vhdlref/conc_s_a.html  
+Concurrent Statement	----used in ---->	Architecture  
+Phép gán xẩy ra bất cứ khi nào giá trị của biểu thức bên phải thay đổi  
 
 ### Conditional Signal Assignment(Phép gán tín hiệu có điều kiện)
-Concurrent Statement	---- used in ---->	Architecture  
 https://www.ics.uci.edu/~jmoorkan/vhdlref/cond_s_a.html  
+Concurrent Statement	---- used in ---->	Architecture  
 
 ### Sequential Signal Assignment(Phép gán tín hiệu tuần tự)  
-Sequential statement	---- used in ---->	Process/Procedure  
 https://www.ics.uci.edu/~jmoorkan/vhdlref/seq_s_a.html  
+Sequential statement	---- used in ---->	Process/Procedure  
