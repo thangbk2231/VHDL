@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hthang/VHDL/Shifter/Shifter.srcs/sources_1/new/Shifter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Shifter'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hthang/VHDL/Shifter/Shifter.srcs/sim_1/new/Shifter_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Shifter_tb'

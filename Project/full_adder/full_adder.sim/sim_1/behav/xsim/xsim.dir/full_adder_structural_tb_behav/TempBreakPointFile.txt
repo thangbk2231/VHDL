@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+78 true C:/Users/hthang/full_adder/full_adder.srcs/sim_1/new/full_adder_tb.vhd
