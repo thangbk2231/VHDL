@@ -22,3 +22,6 @@ https://www.ics.uci.edu/~jmoorkan/vhdlref/conc_s_a.html
 
 ### Sensitive list
 https://www.ics.uci.edu/~jmoorkan/vhdlref/process.html  
+
+### Conditional Signal Assignment
+https://www.ics.uci.edu/~jmoorkan/vhdlref/cond_s_a.html  
