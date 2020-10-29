@@ -1,7 +1,7 @@
 # VHDL
 ## VHDL sample project
 https://www.fpga4student.com/p/vhdl-project.html  
-
+https://surf-vhdl.com/how-to-implement-digital-mux-in-vhdl/
 -----------------------------------------------------  
 ## About jpeg
 https://vi.wikipedia.org/wiki/JPEG  
